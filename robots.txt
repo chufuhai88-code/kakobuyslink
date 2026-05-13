@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kakobuyslink.com/sitemap.xml

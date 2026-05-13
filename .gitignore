@@ -1,0 +1,7 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE (optional — remove these lines if you want to track IDE config)
+.idea/
