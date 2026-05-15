@@ -5,3 +5,6 @@ Desktop.ini
 
 # Editor / IDE (optional — remove these lines if you want to track IDE config)
 .idea/
+
+# ACBuy Archive site lives in github.com/chufuhai88-code/acbuyarchive; clone stays local only.
+acbuyarchive/
