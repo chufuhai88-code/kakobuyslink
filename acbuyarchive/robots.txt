@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acbuyarchive.com/sitemap.xml
